@@ -7,7 +7,7 @@ To run the script:
 ## Files in this repo
 
 * README.md
-* CodeBook.md -- variables description
+* feature_info.txt -- variables description
 * run_analysis.R -- R code
 
 
