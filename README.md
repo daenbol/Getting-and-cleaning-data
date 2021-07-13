@@ -1,5 +1,9 @@
 # Getting-and-cleaning-data
 
+To run the script:
+1) download it
+2) execute it in R (you should change all file destinations) with Rscript command
+
 ## Files in this repo
 
 * README.md
